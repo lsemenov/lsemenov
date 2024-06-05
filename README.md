@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 My name is Alexey and I'm a Machine Learning Engineer
 
-<!--
-**lsemenov/lsemenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 I am interested in NLP and AI
+- 💬 How to reach me: [Telegram](https://t.me/aleksei_lsemenov), [LinkedIn](https://www.linkedin.com/in/alexey-semenovv/)
+- 🤖 Most of the time I'm writing on Python.
+- 🚀 I love pet-projects. They help me grow professionally all my life.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Python, bash,
+- ⚙️ PyTorch, NLP, Deep Learning
+- 👁️ pandas, numpy, sklearn, matplotlib, seaborn, plotly
+- 💽  SQL, PostgreSQL, Docker, Gradio, FastApi, Redis, Docker
