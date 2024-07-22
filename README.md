@@ -7,7 +7,7 @@
 
 ## Skills
 
-- 👨‍💻 Python, bash,
+- 👨‍💻 Python, bash, SQL
 - ⚙️ PyTorch, NLP, Deep Learning
 - 👁️ pandas, numpy, sklearn, matplotlib, seaborn, plotly
-- 💽  SQL, PostgreSQL, Docker, Docker Compose, Gradio, FastAPI, Redis, VectorDB, 
+- 💽 PostgreSQL, Docker, Docker Compose, Gradio, FastAPI, Redis, VectorDB
