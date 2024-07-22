@@ -10,4 +10,4 @@
 - 👨‍💻 Python, bash,
 - ⚙️ PyTorch, NLP, Deep Learning
 - 👁️ pandas, numpy, sklearn, matplotlib, seaborn, plotly
-- 💽  SQL, PostgreSQL, Docker, Gradio, FastApi, Redis, VectorDB, Docker
+- 💽  SQL, PostgreSQL, Docker, Docker Compose, Gradio, FastApi, Redis, VectorDB, 
